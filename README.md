@@ -1,19 +1,6 @@
 # Retrieval-Augmented Generation (RAG) and LLMs
 
-Welcome to the "[Retrieval-Augmented Generation (RAG) and LLMs](https://learning.oreilly.com/live-events/retrieval-augmented-generation-rag-and-llms/0790145078618/0790145078600)" code repository! In this repo, we begin to understand how to augment large language models with real-time data for dynamic, context-aware apps.
 
-Much of the code in these sessions is be featured in the 2nd edition of [my latest book on LLMs](https://www.amazon.com/Quick-Start-Guide-Language-Models-dp-0135346568/dp/0135346568):
-
-<div style="text-align: center;">
-    <a href="https://www.amazon.com/Quick-Start-Guide-Language-Models-dp-0135346568/dp/0135346568">
-        <img src="images/book.jpg" width="100" alt="A Quick Start Guide to LLMs">
-    </a>
-</div>
-
-so if you're itching for more, check it out and please leave a rating/review to tell me what you thought :)
-
-
-For even more, check out my [Expert Playlist](https://learning.oreilly.com/playlists/2953f6c7-0e13-49ac-88e2-b951e11388de)!
 
 ## Prerequisites
 
@@ -56,24 +43,5 @@ This project contains several Jupyter notebooks each focusing on a specific topi
  
 4. **[Advanced - Multimodal Retrieval](https://colab.research.google.com/drive/1aUz0FKQDSAyXyhRyvkkRsSy7S30mpRJc?usp=sharing)** - Using a CLIP model to build an image search system
 
-
-## References
-
-1. Open-source models built for RAG - [Command-R by Cohere](https://cohere.com/blog/command-r?ref=cohere-ai.ghost.io)
-	- Example model on [HuggingFace](https://huggingface.co/CohereForAI/c4ai-command-r-v01-4bit)
-
-2. [Neo4J's GraphRAG Manifesto](https://neo4j.com/blog/graphrag-manifesto/)
-
-3. [A quick-start guide to GraphRAG with LangChain](https://medium.com/data-science-in-your-pocket/graphrag-using-langchain-31b1ef8328b9) - inspired part of my GraphRAG code
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Book time with me on Intro!
-If you have questions, I'm available on [Intro](https://intro.co/sinanozdemir) :) 
-
-<div style="text-align: center;">
-    <a href="https://intro.co/sinanozdemir">
-        <img src="images/intro.png" width="300" alt="Book time with me on Intro">
     </a>
 </div>
